@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655515703357",
+    "firebase_url": "https://courses-fire-app-78543-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "courses-fire-app-78543",
+    "storage_bucket": "courses-fire-app-78543.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655515703357:android:2c2a6e35af0f18cf32f254",
+        "android_client_info": {
+          "package_name": "com.mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655515703357-v3mpmbv7fl38qmvn6huqa4puvj6f57qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTmmIj3tpW9E1_LXqtfFC7a7py_D6pkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655515703357-v3mpmbv7fl38qmvn6huqa4puvj6f57qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
